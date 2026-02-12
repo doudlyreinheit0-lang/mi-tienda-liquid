@@ -1,11 +1,10 @@
 {
   "sections": {
-    "main": {
-      "type": "bundle-offer",
-      "settings": {}
+    "bundle": {
+      "type": "bundle-offer"
     }
   },
   "order": [
-    "main"
+    "bundle"
   ]
 }
